@@ -21,12 +21,12 @@
  * Write 3 remainder calculations where the result is determined. 
  */
 
+// Only change code below this line
 let a = ???
 let b = ???
 let c = ???
+// Only change code above this line
 
-// Only change code below this line
 console.log(a === 1);
 console.log(b === 3);
 console.log(c === 0.5);
-// Only change code above this line
