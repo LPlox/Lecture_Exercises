@@ -1,0 +1,14 @@
+{
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.wordWrap": "on",
+  "prettier.printWidth": 80,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": true,
+  "editor.insertSpaces": false,
+  "editor.formatOnSave": true,
+  "editor.wordWrapColumn": 80,
+}

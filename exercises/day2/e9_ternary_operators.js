@@ -1,7 +1,8 @@
 /**
- * Add the objects together with spread operator.
+ * Add the objects together with ternary operator.
  * You can use the console.log() to test if the ternary is still running correctly.
  * Hard!
+ * Remember if you get this exercise right, know that it's bad practice to use nested ternarys.
  */
 
 // rewrite to ternary
