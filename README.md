@@ -10,27 +10,31 @@ Hope this is somewhat fun! :-)
 
 ## Content
 
-| folder | file   | exercise               |
-| ------ | ------ | ---------------------- |
-| DAY1   | e1.js  | var, let, scopes       |
-|        | e2.js  | compound assignment    |
-|        | e3.js  | remainder              |
-|        | e4.js  | template literals      |
-|        | e5.js  | return                 |
-|        | e6.js  | or                     |
-|        | e7.js  | and                    |
-|        | e8.js  | arrays                 |
-|        | e9.js  | arrays                 |
-|        | e10.js | objects                |
-| DAY2   | e1.js  | arrow functions        |
-|        | e2.js  | arrow functions        |
-|        | e3.js  | higher order functions |
-|        | e4.js  | destructuring objects  |
-|        | e5.js  | destructuring objects  |
-|        | e6.js  | spread arrays          |
-|        | e7.js  | spread arrays          |
-|        | e8.js  | ternary operators      |
-|        | e9.js  | ternary operators      |
+| folder | file             | exercise                        |
+| ------ | ---------------- | ------------------------------- |
+| DAY1   | e1.js            | var, let, scopes                |
+|        | e2.js            | compound assignment             |
+|        | e3.js            | remainder                       |
+|        | e4.js            | template literals               |
+|        | e5.js            | return                          |
+|        | e6.js            | or                              |
+|        | e7.js            | and                             |
+|        | e8.js            | arrays                          |
+|        | e9.js            | arrays                          |
+|        | e10.js           | objects                         |
+| DAY2   | e1.js            | arrow functions                 |
+|        | e2.js            | arrow functions                 |
+|        | e3.js            | higher order functions          |
+|        | e4.js            | destructuring objects           |
+|        | e5.js            | destructuring objects           |
+|        | e6.js            | spread arrays                   |
+|        | e7.js            | spread arrays                   |
+|        | e8.js            | ternary operators               |
+|        | e9.js            | ternary operators               |
+| DAY4   | index.html       | Design System css practice      |
+| DAY5   | create react app | Component thinking with styling |
+
+For any create react app applications, go into the directory with the package.json and run `npm i` or `npm install` to download all packages to run react.
 
 <details>
   <summary>Windows short commands</summary>

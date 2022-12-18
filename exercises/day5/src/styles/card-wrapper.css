@@ -1,0 +1,7 @@
+.card-wrapper{
+  background-color: var(--background);
+  color: var(--foreground);
+  display: flex;
+  flex-direction: row;
+  gap: 14.5px;
+}

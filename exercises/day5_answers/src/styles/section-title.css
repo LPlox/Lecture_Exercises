@@ -1,0 +1,19 @@
+.section-title{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+}
+
+.section-title .title{
+  margin-right: 5px;
+}
+
+.section-title .icon{
+  width: 20px;
+  height: 20px;
+}
+
+.section-title .icon img{
+  object-fit: contain;
+}

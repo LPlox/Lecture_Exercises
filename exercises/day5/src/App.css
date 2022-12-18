@@ -1,0 +1,14 @@
+:root{
+  --primary: #197BBD;
+  --secondary: #FFC145;
+  --light-gray: #AEAEAE;
+
+  --background: white;
+  --foreground: #404040;
+}
+
+.app{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
